@@ -1,4 +1,4 @@
-# windowsCPPAutoclick
+# cppWindowsAutoclick
 
 An autoclicking tool written in C++, works on Windows
 
